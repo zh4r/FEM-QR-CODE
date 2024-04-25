@@ -3,7 +3,6 @@ body {
     font-family: Outfit, Verdana, Geneva, Tahoma, sans-serif;
     display: flex;
     justify-content: center;
-    align-items: center;
 }
 
 .container {
@@ -20,7 +19,6 @@ body {
 .imgCont {
     display: flex;
     margin-top: 1rem;
-    padding: 0;
 }
 
 .imgCont img {
@@ -52,7 +50,7 @@ body {
 p {
     font-size: 0.94rem;
     color: hsl(220, 15%, 55%);
-    margin:0;
+    margin: 0;
 }
 
 .attribution {
