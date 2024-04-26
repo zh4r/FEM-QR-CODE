@@ -5,6 +5,18 @@ body {
     justify-content: center;
 }
 
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .container {
     position: absolute;
     top: 50%;
